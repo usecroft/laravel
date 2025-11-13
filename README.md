@@ -1,3 +1,11 @@
+
+
+---
+> # Croft is now [Laravel Boost](https://github.com/laravel/boost)!
+> Croft was built by [Ashley Hindle](https://github.com/ashleyhindle) in collaboration with [Springloaded](https://github.com/springloadedco), and would eventually become [Laravel Boost](https://github.com/laravel/boost). Croft is no longer maintained - check out [boost](https://github.com/laravel/boost) instead!
+
+---
+
 ![Croft Laravel](https://github.com/user-attachments/assets/6c42134d-5236-4ae1-8c61-bce4db5d9de1)
 
 Croft is an MCP server designed specifcally for Laravel developers, by Laravel developers. We wanted a plug and play solution to boosting productivity, so we built one. The `php artisan croft` command provides tools to your MCP client to help your AI pair programmer work better. This package is specifically designed to offer tools that are useful _locally_.
